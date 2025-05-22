@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/stability-solid-green?style=plastic)
 [![License: CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg?style=plastic)](https://creativecommons.org/publicdomain/zero/1.0/)]
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?style=plastic)](https://docs.microsoft.com/en-us/powershell/)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20WSL2-green?style=plastic)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20WSL2-green?style=plastic)](https://learn.microsoft.com/en-us/windows/wsl/)
 ![GUI](https://img.shields.io/badge/UI-WinForms-7a7a7a?style=plastic)
 ![GitHub Release Date](https://img.shields.io/github/release-date/deuza/WMT)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/deuza/WMT)
