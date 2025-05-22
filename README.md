@@ -1,7 +1,7 @@
 ![GitHub release](https://img.shields.io/github/v/release/DeuZa/WMT?label=release&style=plastic)
 [![GitHub last commit](https://img.shields.io/github/last-commit/DeuZa/WMT?style=plastic)](https://github.com/DeuZa/WMT/commits/main)
 ![Status](https://img.shields.io/badge/stability-solid-green?style=plastic)
-[![License: CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg?style=plastic)](https://creativecommons.org/publicdomain/zero/1.0/)]
+[![License: CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg?style=plastic)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?style=plastic)](https://docs.microsoft.com/en-us/powershell/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20WSL2-green?style=plastic)](https://learn.microsoft.com/en-us/windows/wsl/)
 ![GUI](https://img.shields.io/badge/UI-WinForms-7a7a7a?style=plastic)
