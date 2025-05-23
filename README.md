@@ -66,6 +66,18 @@ If you encounter issues running `WMT.ps1` due to PowerShell execution policies, 
     ```
     This change only affects the current PowerShell session.
 
+### 📸 Snapshots
+
+Here's an overview of the WSL interface :
+
+|           |           |           |
+|-----------|-----------|-----------|
+| ![01](https://github.com/deuza/WMT/releases/download/v0.1.1/01.png) | ![02](https://github.com/deuza/WMT/releases/download/v0.1.1/02.png) | ![03](https://github.com/deuza/WMT/releases/download/v0.1.1/03.png) |
+| ![04](https://github.com/deuza/WMT/releases/download/v0.1.1/04.png) | ![05](https://github.com/deuza/WMT/releases/download/v0.1.1/05.png) | ![06](https://github.com/deuza/WMT/releases/download/v0.1.1/06.png) |
+| ![07](https://github.com/deuza/WMT/releases/download/v0.1.1/07.png) | ![08](https://github.com/deuza/WMT/releases/download/v0.1.1/08.png) | ![09](https://github.com/deuza/WMT/releases/download/v0.1.1/09.png) |
+| ![10](https://github.com/deuza/WMT/releases/download/v0.1.1/10.png) | | |
+
+
 ## ⚠️  Requires WSL2 to be active with at least one distro installed.
 
 ## 🛠️ Dependencies (optional)
