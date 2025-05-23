@@ -35,6 +35,18 @@ No installation required! Download the `.ps1` script, run it with PowerShell (pr
 .\WMT.ps1
 ```
 
+### 📸 Snapshots
+
+Here's a look at the **WMT (WSL2 Management Tool)** interface :
+
+|           |           |           |
+|-----------|-----------|-----------|
+| ![01](https://github.com/deuza/WMT/releases/download/v0.1.1/01.png) | ![02](https://github.com/deuza/WMT/releases/download/v0.1.1/02.png) | ![03](https://github.com/deuza/WMT/releases/download/v0.1.1/03.png) |
+| ![04](https://github.com/deuza/WMT/releases/download/v0.1.1/04.png) | ![05](https://github.com/deuza/WMT/releases/download/v0.1.1/05.png) | ![06](https://github.com/deuza/WMT/releases/download/v0.1.1/06.png) |
+| ![07](https://github.com/deuza/WMT/releases/download/v0.1.1/07.png) | ![08](https://github.com/deuza/WMT/releases/download/v0.1.1/08.png) | ![09](https://github.com/deuza/WMT/releases/download/v0.1.1/09.png) |
+| ![10](https://github.com/deuza/WMT/releases/download/v0.1.1/10.png) | ![11](https://github.com/deuza/WMT/releases/download/v0.1.1/11.png) | |
+
+
 ### Running the Script with "Mark of the Web" policies :
 
 If you encounter issues running `WMT.ps1` due to PowerShell execution policies, you might need to:
@@ -68,7 +80,6 @@ If you encounter issues running `WMT.ps1` due to PowerShell execution policies, 
 
 - .zip compression is automatic after export if the option is checked.
 - The import directly accepts .zip files (unzipped in the background).
-- By default, clones are exported to %TEMP%\WMT_Exports_Temp.
 
 ---
 

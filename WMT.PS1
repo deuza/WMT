@@ -3,15 +3,11 @@
 WSL2 Management Tool (WMT) - A tool for cloning, exporting, and importing WSL2 distributions,
 with advanced ZIP compression management integrated into the export form.
 
-.VERSION
-0.1.1
-
 .AUTHOR
 DeuZa
 #>
 
 #region Initial Configuration
-$SCRIPT_VERSION = "0.1.1" 
 $LOG_FILE = Join-Path -Path $PSScriptRoot -ChildPath "wmt_wsl.log" 
 $MIN_DISK_SPACE = 12GB # 12 GB minimum disk space
 $env:WSL_UTF8 = 1 # Request WSL to output in UTF-8
