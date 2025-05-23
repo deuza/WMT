@@ -11,7 +11,7 @@
 ![Built With Love](https://img.shields.io/badge/built%20with-%E2%9D%A4%20by%20DeuZa-red?style=plastic)
 
 <h1 align="center">
-# 🐧 WSL2 Management Tool (WMT) 🐧
+🐧 WSL2 Management Tool (WMT) 🐧
 </h1>
 Clone, export, import your WSL2 distributions — with optional compression of `.tar` files into `.zip` files.
 
