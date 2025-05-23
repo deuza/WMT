@@ -43,26 +43,25 @@ Here's a look at the **WMT (WSL2 Management Tool)** interface :
 |-----------|-----------|-----------|
 | ![01](https://github.com/deuza/WMT/releases/download/v0.1.1/01.png) | ![02](https://github.com/deuza/WMT/releases/download/v0.1.1/02.png) | ![03](https://github.com/deuza/WMT/releases/download/v0.1.1/03.png) |
 | ![04](https://github.com/deuza/WMT/releases/download/v0.1.1/04.png) | ![05](https://github.com/deuza/WMT/releases/download/v0.1.1/05.png) | ![06](https://github.com/deuza/WMT/releases/download/v0.1.1/06.png) |
-| ![07](https://github.com/deuza/WMT/releases/download/v0.1.1/07.png) | ![08](https://github.com/deuza/WMT/releases/download/v0.1.1/08.png) | ![09](https://github.com/deuza/WMT/releases/download/v0.1.1/09.png) |
-| ![10](https://github.com/deuza/WMT/releases/download/v0.1.1/10.png) | | |
+| ![07](https://github.com/deuza/WMT/releases/download/v0.1.1/07.png) | ![08](https://github.com/deuza/WMT/releases/download/v0.1.1/08.png) | ![10](https://github.com/deuza/WMT/releases/download/v0.1.1/10.png) |
 
 
 ### Running the Script with "Mark of the Web" policies :
 
-If you encounter issues running `WMT.ps1` due to PowerShell execution policies, you might need to:
+If you encounter issues running `WMT.PS1` due to PowerShell execution policies, you might need to:
 
 1.  **Unblock the file:**
-    After downloading and extracting the script, right-click on `WMT.ps1`, go to Properties, and if you see an "Unblock" button or checkbox at the bottom of the General tab, click it and then OK.
+    After downloading and extracting the script, right-click on `WMT.PS1`, go to Properties, and if you see an "Unblock" button or checkbox at the bottom of the General tab, click it and then OK.
     Alternatively, from PowerShell:
     ```powershell
-    Unblock-File -Path ".\WMT.ps1"
+    Unblock-File -Path ".\WMT.PS1"
     ```
 
 2.  **Set Execution Policy for the current process (recommended for ease of use):**
     Open PowerShell, navigate to the script's directory, and run:
     ```powershell
-    Set-ExecutionPolicy Bypass -Scope Process -Force
-    .\WMT.ps1
+    Set-ExecutionPolicy Bypass -Scope Process -Force    
+    .\WMT.PS1
     ```
     This change only affects the current PowerShell session.
 
