@@ -83,7 +83,7 @@ If you encounter issues running `WMT.PS1` due to PowerShell execution policies, 
 
 ---
 
-## ✅ Roadmap (v0.1.x)
+## ✅ Roadmap (v0.2.x)
 
 -  Unified GUI interface
 -  Command line mode (headless)
